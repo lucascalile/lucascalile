@@ -7,7 +7,6 @@
 🎓 Cientista de Dados em formação pela EBAC  
 📊 Apaixonado por tecnologia, dados e aprendizado constante  
 🐍 Explorando Python, SQL e Machine Learning  
-☕ Movido a café, curiosidade e bugs aleatórios  
 
 ---
 
